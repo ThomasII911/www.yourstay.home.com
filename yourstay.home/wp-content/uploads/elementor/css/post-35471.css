@@ -1,0 +1,30 @@
+.elementor-35471 .elementor-element.elementor-element-c030062 {
+    padding: 100px 0px 0px 0px;
+}
+
+.elementor-35471 .elementor-element.elementor-element-c102921 {
+    font-family: "Line", Sans-serif;
+    font-size: 3.4rem;
+    font-weight: 400;
+    line-height: 3.4em;
+}
+
+.elementor-35471 .elementor-element.elementor-element-c102921>.elementor-widget-container {
+    margin: 0rem 0rem 3rem 0rem;
+}
+
+/* Start Custom Fonts CSS */
+@font-face {
+    font-family: 'Line';
+    font-style: normal;
+    font-weight: normal;
+    font-display: auto;
+    src: url('https://letsbare.today/wp-content/uploads/2022/04/Line-BoldItalic.eot');
+    src: url('https://letsbare.today/wp-content/uploads/2022/04/Line-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('https://letsbare.today/wp-content/uploads/2022/04/Line-BoldItalic.woff2') format('woff2'),
+        url('https://letsbare.today/wp-content/uploads/2022/04/Line-BoldItalic.woff') format('woff'),
+        url('https://letsbare.today/wp-content/uploads/2022/04/Line-BoldItalic.ttf') format('truetype'),
+        url('https://letsbare.today/wp-content/uploads/2022/04/Line-BoldItalic.svg#Line') format('svg');
+}
+
+/* End Custom Fonts CSS */

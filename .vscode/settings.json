@@ -1,0 +1,6 @@
+{
+  "prettier.enable": true,
+  "[javascript]": {
+    "editor.formatOnSave": true,
+  }
+}

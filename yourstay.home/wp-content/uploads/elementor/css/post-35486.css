@@ -1,0 +1,614 @@
+.elementor-35486 .elementor-element.elementor-element-3134622 {
+    padding: 100px 0px 0px 0px;
+}
+
+.elementor-35486 .elementor-element.elementor-element-be4ab5a {
+    font-family: "Line", Sans-serif;
+    font-size: 3.4rem;
+    font-weight: 400;
+    line-height: 3.4em;
+}
+
+.elementor-35486 .elementor-element.elementor-element-be4ab5a>.elementor-widget-container {
+    margin: 0rem 0rem 3rem 0rem;
+}
+
+.elementor-35486 .elementor-element.elementor-element-4c5c4a3 {
+    font-family: "Line", Sans-serif;
+    font-size: 3.4rem;
+    font-weight: 400;
+    line-height: 3.4em;
+}
+
+.elementor-35486 .elementor-element.elementor-element-4c5c4a3>.elementor-widget-container {
+    margin: 0rem 0rem 3rem 0rem;
+}
+
+.elementor-35486 .elementor-element.elementor-element-8e54e77 {
+    margin-top: 0px;
+    margin-bottom: 75px;
+}
+
+/* Photo source 1 on Room page */
+.elementor-35486 .elementor-element.elementor-element-e850cd7 .elementor-repeater-item-8d9e548 .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/1.58.jpg);
+    background-size: cover;
+    position: relative;
+    display: inline-block;
+}
+
+.elementor-35486 .elementor-element.elementor-element-e850cd7 .elementor-repeater-item-601b08a .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/1.61.jpg);
+    background-size: cover;
+    position: relative;
+    display: inline-block;
+}
+
+.elementor-35486 .elementor-element.elementor-element-e850cd7 .elementor-repeater-item-7bfa091 .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/1.59.jpg);
+    background-size: cover;
+    position: relative;
+    display: inline-block;
+}
+
+.elementor-35486 .elementor-element.elementor-element-e850cd7 .elementor-repeater-item-0b10fb2 .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/1.50.jpg);
+    background-size: cover;
+    position: relative;
+    display: inline-block;
+}
+
+.elementor-35486 .elementor-element.elementor-element-e850cd7 .swiper-slide {
+    height: 425px;
+    transition-duration: calc(5000ms*1.2);
+}
+
+.elementor-35486 .elementor-element.elementor-element-e850cd7 .swiper-slide-contents {
+    max-width: 66%;
+}
+
+.elementor-35486 .elementor-element.elementor-element-e850cd7 .swiper-slide-inner {
+    text-align: center;
+}
+
+.elementor-35486 .elementor-element.elementor-element-4b03768 {
+    margin-top: 0px;
+    margin-bottom: 75px;
+}
+
+/* Show all photos button - Photos Gallery */
+.elementor-35486 .elementor-swiper .show-all-photo {
+    position: relative;
+    text-align: center;
+    top: 42px;
+    margin: 0;
+}
+
+.elementor-35486 .show-all-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    color: #222;
+    border: 1px solid #222;
+    border-radius: 5px;
+    padding: 8px 16px;
+    cursor: pointer;
+    text-align: center;
+    touch-action: manipulation;
+}
+
+.show-all-btn label {
+    color: #222;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 0 0 0 8px;
+    cursor: pointer;
+}
+
+.elementor-35486 .show-all-btn:hover {
+    color: #222;
+    opacity: 0.5;
+}
+
+.elementor-35486 .elementor-element.elementor-element-ba3c54b .elementor-repeater-item-8d9e548 .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/2.13.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-ba3c54b .elementor-repeater-item-601b08a .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/2.4.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-ba3c54b .elementor-repeater-item-7bfa091 .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/2.6.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-ba3c54b .elementor-repeater-item-0b10fb2 .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/2.9.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-ba3c54b .swiper-slide {
+    height: 425px;
+    transition-duration: calc(5000ms*1.2);
+}
+
+.elementor-35486 .elementor-element.elementor-element-ba3c54b .swiper-slide-contents {
+    max-width: 66%;
+}
+
+.elementor-35486 .elementor-element.elementor-element-ba3c54b .swiper-slide-inner {
+    text-align: center;
+}
+
+.elementor-35486 .elementor-element.elementor-element-b694a8e {
+    margin-top: 0px;
+    margin-bottom: 75px;
+}
+
+.elementor-35486 .elementor-element.elementor-element-1dbe3f3 .elementor-repeater-item-8d9e548 .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/44.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-1dbe3f3 .elementor-repeater-item-601b08a .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/54.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-1dbe3f3 .elementor-repeater-item-7bfa091 .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/46.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-1dbe3f3 .swiper-slide {
+    height: 425px;
+    transition-duration: calc(5000ms*1.2);
+}
+
+.elementor-35486 .elementor-element.elementor-element-1dbe3f3 .swiper-slide-contents {
+    max-width: 66%;
+}
+
+.elementor-35486 .elementor-element.elementor-element-1dbe3f3 .swiper-slide-inner {
+    text-align: center;
+}
+
+.elementor-35486 .elementor-element.elementor-element-9a0f482 {
+    margin-top: 0px;
+    margin-bottom: 75px;
+}
+
+.elementor-35486 .elementor-element.elementor-element-c014879 .elementor-repeater-item-8d9e548 .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/44-1.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-c014879 .elementor-repeater-item-601b08a .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/40.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-c014879 .elementor-repeater-item-7bfa091 .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/29.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-c014879 .elementor-repeater-item-0b10fb2 .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/33.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-c014879 .swiper-slide {
+    height: 425px;
+    transition-duration: calc(5000ms*1.2);
+}
+
+.elementor-35486 .elementor-element.elementor-element-c014879 .swiper-slide-contents {
+    max-width: 66%;
+}
+
+.elementor-35486 .elementor-element.elementor-element-c014879 .swiper-slide-inner {
+    text-align: center;
+}
+
+.elementor-35486 .elementor-element.elementor-element-665f4b3 {
+    margin-top: 0px;
+    margin-bottom: 75px;
+}
+
+.elementor-35486 .elementor-element.elementor-element-4125ba0 .elementor-repeater-item-8d9e548 .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/14.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-4125ba0 .elementor-repeater-item-601b08a .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/2-1.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-4125ba0 .elementor-repeater-item-7bfa091 .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/9-1.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-4125ba0 .elementor-repeater-item-0b10fb2 .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/13-1.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-4125ba0 .swiper-slide {
+    height: 425px;
+    transition-duration: calc(5000ms*1.2);
+}
+
+.elementor-35486 .elementor-element.elementor-element-4125ba0 .swiper-slide-contents {
+    max-width: 66%;
+}
+
+.elementor-35486 .elementor-element.elementor-element-4125ba0 .swiper-slide-inner {
+    text-align: center;
+}
+
+.elementor-35486 .elementor-element.elementor-element-8bcbf73 {
+    margin-top: 0px;
+    margin-bottom: 75px;
+}
+
+.elementor-35486 .elementor-element.elementor-element-9a23031 .elementor-repeater-item-8d9e548 .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/67.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-9a23031 .elementor-repeater-item-601b08a .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/55.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-9a23031 .elementor-repeater-item-7bfa091 .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/60.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-9a23031 .elementor-repeater-item-0b10fb2 .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/58.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-9a23031 .swiper-slide {
+    height: 425px;
+    transition-duration: calc(5000ms*1.2);
+}
+
+.elementor-35486 .elementor-element.elementor-element-9a23031 .swiper-slide-contents {
+    max-width: 66%;
+}
+
+.elementor-35486 .elementor-element.elementor-element-9a23031 .swiper-slide-inner {
+    text-align: center;
+}
+
+.elementor-35486 .elementor-element.elementor-element-10a2c18 {
+    margin-top: 0px;
+    margin-bottom: 75px;
+}
+
+.elementor-35486 .elementor-element.elementor-element-a21ebdb .elementor-repeater-item-8d9e548 .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/84.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-a21ebdb .elementor-repeater-item-601b08a .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/83.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-a21ebdb .elementor-repeater-item-7bfa091 .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/74.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-a21ebdb .elementor-repeater-item-0b10fb2 .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/76.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-a21ebdb .swiper-slide {
+    height: 425px;
+    transition-duration: calc(5000ms*1.2);
+}
+
+.elementor-35486 .elementor-element.elementor-element-a21ebdb .swiper-slide-contents {
+    max-width: 66%;
+}
+
+.elementor-35486 .elementor-element.elementor-element-a21ebdb .swiper-slide-inner {
+    text-align: center;
+}
+
+.elementor-35486 .elementor-element.elementor-element-5753ecc {
+    margin-top: 0px;
+    margin-bottom: 75px;
+}
+
+.elementor-35486 .elementor-element.elementor-element-816c11a .elementor-repeater-item-8d9e548 .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/05/a-6.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-816c11a .elementor-repeater-item-1a1f8fc .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/05/a-5.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-816c11a .elementor-repeater-item-601b08a .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/05/a-17.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-816c11a .elementor-repeater-item-7bfa091 .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/05/a-25.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-816c11a .swiper-slide {
+    height: 425px;
+    transition-duration: calc(5000ms*1.2);
+}
+
+.elementor-35486 .elementor-element.elementor-element-816c11a .swiper-slide-contents {
+    max-width: 66%;
+}
+
+.elementor-35486 .elementor-element.elementor-element-816c11a .swiper-slide-inner {
+    text-align: center;
+}
+
+.elementor-35486 .elementor-element.elementor-element-be0b5c6 {
+    margin-top: 0px;
+    margin-bottom: 75px;
+}
+
+.elementor-35486 .elementor-element.elementor-element-ef05736 .elementor-repeater-item-8d9e548 .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/05/a-59.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-ef05736 .elementor-repeater-item-601b08a .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/05/a-64.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-ef05736 .elementor-repeater-item-7bfa091 .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/05/a-74.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-ef05736 .elementor-repeater-item-0b10fb2 .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/05/a-63.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-ef05736 .swiper-slide {
+    height: 425px;
+    transition-duration: calc(5000ms*1.2);
+}
+
+.elementor-35486 .elementor-element.elementor-element-ef05736 .swiper-slide-contents {
+    max-width: 66%;
+}
+
+.elementor-35486 .elementor-element.elementor-element-ef05736 .swiper-slide-inner {
+    text-align: center;
+}
+
+.elementor-35486 .elementor-element.elementor-element-27c9fa9 {
+    font-family: "Line", Sans-serif;
+    font-size: 3.4rem;
+    font-weight: 400;
+    line-height: 3.4em;
+}
+
+.elementor-35486 .elementor-element.elementor-element-27c9fa9>.elementor-widget-container {
+    margin: 0rem 0rem 3rem 0rem;
+}
+
+.elementor-35486 .elementor-element.elementor-element-a0ee9d2 #tab_prpg.wpestate_elementor_tabs li.active a {
+    border-bottom: var(--e-global-color-primary);
+    color: var(--e-global-color-primary);
+}
+
+.elementor-35486 .elementor-element.elementor-element-a0ee9d2 .wpestate_elementor_tabs li.active svg path {
+    fill: var(--e-global-color-primary);
+}
+
+.elementor-35486 .elementor-element.elementor-element-a0ee9d2 #tab_prpg.wpestate_elementor_tabs li a:hover {
+    border-bottom: var(--e-global-color-primary);
+    color: var(--e-global-color-primary);
+}
+
+@media(max-width:1024px) {
+    .elementor-35486 .elementor-element.elementor-element-e850cd7 .swiper-slide {
+        height: 400px;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-816c11a .swiper-slide {
+        height: 400px;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-ef05736 .swiper-slide {
+        height: 400px;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-35486 .elementor-element.elementor-element-e850cd7 .swiper-slide {
+        height: 250px;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-ba3c54b .swiper-slide {
+        height: 250px;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-1dbe3f3 .swiper-slide {
+        height: 250px;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-c014879 .swiper-slide {
+        height: 250px;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-4125ba0 .swiper-slide {
+        height: 250px;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-9a23031 .swiper-slide {
+        height: 250px;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-a21ebdb .swiper-slide {
+        height: 250px;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-816c11a .swiper-slide {
+        height: 250px;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-ef05736 .swiper-slide {
+        height: 250px;
+    }
+}
+
+@media(min-width:768px) {
+    .elementor-35486 .elementor-element.elementor-element-f943b12 {
+        width: 40%;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-0dcdb8f {
+        width: 60%;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-6079341 {
+        width: 40%;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-80226cd {
+        width: 60%;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-548a693 {
+        width: 40%;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-066b41a {
+        width: 60%;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-ce9c658 {
+        width: 40%;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-ec072a2 {
+        width: 60%;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-255ebb6 {
+        width: 40%;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-b202ee9 {
+        width: 60%;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-cd434a2 {
+        width: 40%;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-d758508 {
+        width: 60%;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-017a26b {
+        width: 40%;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-b854be7 {
+        width: 60%;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-60c202b {
+        width: 40%;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-1d0ca6d {
+        width: 60%;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-c9bbb1f {
+        width: 40%;
+    }
+
+    .elementor-35486 .elementor-element.elementor-element-36e6bc9 {
+        width: 60%;
+    }
+}
+
+@media(max-width:1024px) and (min-width:768px) {
+    .elementor-35486 .elementor-element.elementor-element-548a693 {
+        width: 40%;
+    }
+}
+
+/* Start Custom Fonts CSS */
+@font-face {
+    font-family: 'Line';
+    font-style: normal;
+    font-weight: normal;
+    font-display: auto;
+    src: url('http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/04/Line-BoldItalic.eot');
+    src: url('http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/04/Line-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/04/Line-BoldItalic.woff2') format('woff2'),
+        url('http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/04/Line-BoldItalic.woff') format('woff'),
+        url('http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/04/Line-BoldItalic.ttf') format('truetype'),
+        url('http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/04/Line-BoldItalic.svg#Line') format('svg');
+}
+
+/* End Custom Fonts CSS */

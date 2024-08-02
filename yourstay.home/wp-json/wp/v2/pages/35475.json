@@ -1,0 +1,95 @@
+{
+    "id": 35475,
+    "date": "2022-04-07T07:51:29",
+    "date_gmt": "2022-04-07T07:51:29",
+    "guid": {
+        "rendered": "http:\/\/127.0.0.1:5500\/yourstay.home\/index.html\/?page_id=35475"
+    },
+    "modified": "2022-06-17T03:22:32",
+    "modified_gmt": "2022-06-17T03:22:32",
+    "slug": "about",
+    "status": "publish",
+    "type": "page",
+    "link": "http:\/\/127.0.0.1:5500\/yourstay.home\/about.html",
+    "title": {
+        "rendered": "About"
+    },
+    "content": {
+        "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"35475\" class=\"elementor elementor-35475\">\n\t\t\t\t\t\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-a0ff23c elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"a0ff23c\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7336375\" data-id=\"7336375\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t\t\t<div class=\"elementor-element elementor-element-6d0d412 mw-600 elementor-widget elementor-widget-text-editor\" data-id=\"6d0d412\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<h1>simple<\/h1><h1>but not simplistic<\/h1>\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-08b35fc mw-600 elementor-widget elementor-widget-text-editor\" data-id=\"08b35fc\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<p>Bare is a collection of boutique stays nestled in the hidden nooks of Saigon\u2019s storied old apartments. Just a brisk walk away from downtown, our rooms are the perfect home base to begin your exploration of the city\u2019s rich cultural, historical, and most importantly, culinary heritage.<\/p><p>Bare embodies a grounded, unabashed sense of self. We believe in staying true to our nature in every situation, so we created Bare in the hope of inspiring you to do the same during your stay. Eat fresh lychees on the floor, soak in Saigon\u2019s summer drizzle, or even lounge around the room with no pants\u2014 come bare with us, be yourself.<\/p><p>Take in the breathtaking view of Saigon at night from the balcony, bask in the morning sun along the breezy canal or simply stay in bed to relish a cup of Vietnamese c\u00e0-ph\u00ea-\u0111\u00e1. Enjoy the full local experience with Bare\u2019s attentive service, personalized amenities and sleek architectural design.<\/p>\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-bf540cd\" data-id=\"bf540cd\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t\t\t<div class=\"elementor-element elementor-element-4c1dcbf elementor-widget elementor-widget-image\" data-id=\"4c1dcbf\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"463\" height=\"695\" src=\"https:\/\/letsbare.today\/wp-content\/uploads\/2022\/04\/about.jpeg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https:\/\/letsbare.today\/wp-content\/uploads\/2022\/04\/about.jpeg 463w, https:\/\/letsbare.today\/wp-content\/uploads\/2022\/04\/about-200x300.jpeg 200w\" sizes=\"(max-width: 463px) 100vw, 463px\" \/>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t\t\t\t<\/div>\n\t\t",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>simple but not simplistic Bare is a collection of boutique stays nestled in the hidden nooks of Saigon\u2019s storied old apartments. Just a brisk walk away from downtown, our rooms are the perfect home base to begin your exploration of the city\u2019s rich cultural, historical, and most importantly, culinary heritage. Bare embodies a grounded, unabashed &#8230;<\/p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "footnotes": ""
+    },
+    "class_list": [
+        "post-35475",
+        "page",
+        "type-page",
+        "status-publish",
+        "hentry"
+    ],
+    "_links": {
+        "self": [
+            {
+                "href": "http:\/\/127.0.0.1:5500\/yourstay.home\/wp-json\/wp\/v2\/pages\/35475.json"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https:\/\/letsbare.today\/wp-json\/wp\/v2\/pages"
+            }
+        ],
+        "about": [
+            {
+                "href": "https:\/\/letsbare.today\/wp-json\/wp\/v2\/types\/page"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/letsbare.today\/wp-json\/wp\/v2\/users\/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/letsbare.today\/wp-json\/wp\/v2\/comments?post=35475"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 10,
+                "href": "https:\/\/letsbare.today\/wp-json\/wp\/v2\/pages\/35475\/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 35581,
+                "href": "https:\/\/letsbare.today\/wp-json\/wp\/v2\/pages\/35475\/revisions\/35581"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https:\/\/letsbare.today\/wp-json\/wp\/v2\/media?parent=35475"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

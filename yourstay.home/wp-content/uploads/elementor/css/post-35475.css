@@ -3,11 +3,14 @@
 	font-style: normal;
 	font-weight: normal;
 	font-display: auto;
-	src: url('https://letsbare.today/wp-content/uploads/2022/04/Line-BoldItalic.eot');
-	src: url('https://letsbare.today/wp-content/uploads/2022/04/Line-BoldItalic.eot?#iefix') format('embedded-opentype'),
-		url('https://letsbare.today/wp-content/uploads/2022/04/Line-BoldItalic.woff2') format('woff2'),
-		url('https://letsbare.today/wp-content/uploads/2022/04/Line-BoldItalic.woff') format('woff'),
-		url('https://letsbare.today/wp-content/uploads/2022/04/Line-BoldItalic.ttf') format('truetype'),
-		url('https://letsbare.today/wp-content/uploads/2022/04/Line-BoldItalic.svg#Line') format('svg');
+	src: url('http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/04/Line-BoldItalic.eot');
+	src: url('http://127.0.0.1:5500/yourstay.home/uploads/2022/04/Line-BoldItalic.eot?#iefix') format('embedded-opentype'),
+		url('http://127.0.0.1:5500/yourstay.home/uploads/2022/04/Line-BoldItalic.woff2') format('woff2'),
+		url('http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/04/Line-BoldItalic.woff') format('woff'),
+		url('http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/04/Line-BoldItalic.ttf') format('truetype'),
+		url('http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/04/Line-BoldItalic.svg#Line') format('svg');
+}
+.elementor-35475 .elementor-element.elementor-element-7336375> .elementor-element-populated {
+	padding: 0;
 }
 /* End Custom Fonts CSS */

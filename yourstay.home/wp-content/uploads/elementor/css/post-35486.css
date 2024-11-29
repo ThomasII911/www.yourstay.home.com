@@ -1,5 +1,5 @@
-.elementor-35486 .elementor-element.elementor-element-3134622 {
-    padding: 100px 0px 0px 0px;
+.elementor-35486 .elementor-element.elementor-element-3134622 { 
+    margin: 0;
 }
 
 .elementor-35486 .elementor-element.elementor-element-be4ab5a {
@@ -9,8 +9,8 @@
     line-height: 3.4em;
 }
 
-.elementor-35486 .elementor-element.elementor-element-be4ab5a>.elementor-widget-container {
-    margin: 0rem 0rem 3rem 0rem;
+.elementor-35486 .elementor-widget-container h1 {
+    text-align: left;
 }
 
 .elementor-35486 .elementor-element.elementor-element-4c5c4a3 {
@@ -21,7 +21,7 @@
 }
 
 .elementor-35486 .elementor-element.elementor-element-4c5c4a3>.elementor-widget-container {
-    margin: 0rem 0rem 3rem 0rem;
+    margin: 3rem 0rem 0rem 0rem;
 }
 
 .elementor-35486 .elementor-element.elementor-element-8e54e77 {
@@ -29,10 +29,10 @@
     margin-bottom: 75px;
 }
 
-/* Photo source 1 on Room page */
+/* Photo source 1 on Room page - Serena Villa */
 .elementor-35486 .elementor-element.elementor-element-e850cd7 .elementor-repeater-item-8d9e548 .swiper-slide-bg {
     background-color: var(--e-global-color-primary);
-    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/1.58.jpg);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2024/07/serena1.jpg);
     background-size: cover;
     position: relative;
     display: inline-block;
@@ -40,7 +40,7 @@
 
 .elementor-35486 .elementor-element.elementor-element-e850cd7 .elementor-repeater-item-601b08a .swiper-slide-bg {
     background-color: var(--e-global-color-primary);
-    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/1.61.jpg);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2024/07/serena2.jpg);
     background-size: cover;
     position: relative;
     display: inline-block;
@@ -48,7 +48,7 @@
 
 .elementor-35486 .elementor-element.elementor-element-e850cd7 .elementor-repeater-item-7bfa091 .swiper-slide-bg {
     background-color: var(--e-global-color-primary);
-    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/1.59.jpg);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2024/07/serena3.jpg);
     background-size: cover;
     position: relative;
     display: inline-block;
@@ -56,10 +56,11 @@
 
 .elementor-35486 .elementor-element.elementor-element-e850cd7 .elementor-repeater-item-0b10fb2 .swiper-slide-bg {
     background-color: var(--e-global-color-primary);
-    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/1.50.jpg);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2024/07/serena4.jpg);
     background-size: cover;
     position: relative;
     display: inline-block;
+
 }
 
 .elementor-35486 .elementor-element.elementor-element-e850cd7 .swiper-slide {
@@ -84,7 +85,7 @@
 .elementor-35486 .elementor-swiper .show-all-photo {
     position: relative;
     text-align: center;
-    top: 42px;
+    top: 10px;
     margin: 0;
 }
 
@@ -96,7 +97,7 @@
     color: #222;
     border: 1px solid #222;
     border-radius: 5px;
-    padding: 8px 16px;
+    padding: 5px 15px;
     cursor: pointer;
     text-align: center;
     touch-action: manipulation;
@@ -115,27 +116,28 @@
     opacity: 0.5;
 }
 
+/* Photo source 2 on Room page - An Villa*/
 .elementor-35486 .elementor-element.elementor-element-ba3c54b .elementor-repeater-item-8d9e548 .swiper-slide-bg {
     background-color: var(--e-global-color-primary);
-    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/2.13.jpg);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2024/07/an-villa1.jpg);
     background-size: cover;
 }
 
 .elementor-35486 .elementor-element.elementor-element-ba3c54b .elementor-repeater-item-601b08a .swiper-slide-bg {
     background-color: var(--e-global-color-primary);
-    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/2.4.jpg);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2024/07/an-villa2.jpg);
     background-size: cover;
 }
 
 .elementor-35486 .elementor-element.elementor-element-ba3c54b .elementor-repeater-item-7bfa091 .swiper-slide-bg {
     background-color: var(--e-global-color-primary);
-    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/2.6.jpg);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2024/07/an-villa3.jpg);
     background-size: cover;
 }
 
 .elementor-35486 .elementor-element.elementor-element-ba3c54b .elementor-repeater-item-0b10fb2 .swiper-slide-bg {
     background-color: var(--e-global-color-primary);
-    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/2.9.jpg);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2024/07/an-villa4.jpg);
     background-size: cover;
 }
 
@@ -157,21 +159,28 @@
     margin-bottom: 75px;
 }
 
+/* Photo source 3 on Room page - BT208 Villa */
 .elementor-35486 .elementor-element.elementor-element-1dbe3f3 .elementor-repeater-item-8d9e548 .swiper-slide-bg {
     background-color: var(--e-global-color-primary);
-    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/44.jpg);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2024/07/BT208-1.jpg);
     background-size: cover;
 }
 
 .elementor-35486 .elementor-element.elementor-element-1dbe3f3 .elementor-repeater-item-601b08a .swiper-slide-bg {
     background-color: var(--e-global-color-primary);
-    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/54.jpg);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2024/07/BT208-2.jpg);
     background-size: cover;
 }
 
 .elementor-35486 .elementor-element.elementor-element-1dbe3f3 .elementor-repeater-item-7bfa091 .swiper-slide-bg {
     background-color: var(--e-global-color-primary);
-    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/46.jpg);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2024/07/BT208-3.jpg);
+    background-size: cover;
+}
+
+.elementor-35486 .elementor-element.elementor-element-1dbe3f3 .elementor-repeater-item-0b10fb2 .swiper-slide-bg {
+    background-color: var(--e-global-color-primary);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2024/07/BT208-4.jpg);
     background-size: cover;
 }
 
@@ -193,27 +202,28 @@
     margin-bottom: 75px;
 }
 
+/* Photo source 4 on Room page - Nelly Villa */
 .elementor-35486 .elementor-element.elementor-element-c014879 .elementor-repeater-item-8d9e548 .swiper-slide-bg {
     background-color: var(--e-global-color-primary);
-    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/44-1.jpg);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2024/07/nelly1.jpg);
     background-size: cover;
 }
 
 .elementor-35486 .elementor-element.elementor-element-c014879 .elementor-repeater-item-601b08a .swiper-slide-bg {
     background-color: var(--e-global-color-primary);
-    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/40.jpg);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2024/07/nelly2.jpg);
     background-size: cover;
 }
 
 .elementor-35486 .elementor-element.elementor-element-c014879 .elementor-repeater-item-7bfa091 .swiper-slide-bg {
     background-color: var(--e-global-color-primary);
-    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/29.jpg);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2024/07/nelly3.jpg);
     background-size: cover;
 }
 
 .elementor-35486 .elementor-element.elementor-element-c014879 .elementor-repeater-item-0b10fb2 .swiper-slide-bg {
     background-color: var(--e-global-color-primary);
-    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/33.jpg);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2024/07/nelly4.jpg);
     background-size: cover;
 }
 
@@ -235,27 +245,28 @@
     margin-bottom: 75px;
 }
 
+/* Photo source 5 on Room page - BT4.3 Villa */
 .elementor-35486 .elementor-element.elementor-element-4125ba0 .elementor-repeater-item-8d9e548 .swiper-slide-bg {
     background-color: var(--e-global-color-primary);
-    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/14.jpg);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2024/07/BT4.3-1.jpg);
     background-size: cover;
 }
 
 .elementor-35486 .elementor-element.elementor-element-4125ba0 .elementor-repeater-item-601b08a .swiper-slide-bg {
     background-color: var(--e-global-color-primary);
-    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/2-1.jpg);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2024/07/BT4.3-2.jpg);
     background-size: cover;
 }
 
 .elementor-35486 .elementor-element.elementor-element-4125ba0 .elementor-repeater-item-7bfa091 .swiper-slide-bg {
     background-color: var(--e-global-color-primary);
-    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/9-1.jpg);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2024/07/BT4.3-3.jpg);
     background-size: cover;
 }
 
 .elementor-35486 .elementor-element.elementor-element-4125ba0 .elementor-repeater-item-0b10fb2 .swiper-slide-bg {
     background-color: var(--e-global-color-primary);
-    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/13-1.jpg);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2024/07/BT4.3-4.jpg);
     background-size: cover;
 }
 
@@ -277,27 +288,28 @@
     margin-bottom: 75px;
 }
 
+/* Photo source 6 on Room page - DL1.3 Villa */
 .elementor-35486 .elementor-element.elementor-element-9a23031 .elementor-repeater-item-8d9e548 .swiper-slide-bg {
     background-color: var(--e-global-color-primary);
-    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/67.jpg);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2024/07/DL1.3-1.jpg);
     background-size: cover;
 }
 
 .elementor-35486 .elementor-element.elementor-element-9a23031 .elementor-repeater-item-601b08a .swiper-slide-bg {
     background-color: var(--e-global-color-primary);
-    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/55.jpg);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2024/07/DL1.3-2.jpg);
     background-size: cover;
 }
 
 .elementor-35486 .elementor-element.elementor-element-9a23031 .elementor-repeater-item-7bfa091 .swiper-slide-bg {
     background-color: var(--e-global-color-primary);
-    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/60.jpg);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2024/07/DL1.3-3.jpg);
     background-size: cover;
 }
 
 .elementor-35486 .elementor-element.elementor-element-9a23031 .elementor-repeater-item-0b10fb2 .swiper-slide-bg {
     background-color: var(--e-global-color-primary);
-    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/58.jpg);
+    background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2024/07/DL1.3-4.jpg);
     background-size: cover;
 }
 
@@ -319,6 +331,7 @@
     margin-bottom: 75px;
 }
 
+/* Photo source 7 on Room page - Not used */
 .elementor-35486 .elementor-element.elementor-element-a21ebdb .elementor-repeater-item-8d9e548 .swiper-slide-bg {
     background-color: var(--e-global-color-primary);
     background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/84.jpg);
@@ -361,6 +374,7 @@
     margin-bottom: 75px;
 }
 
+/* Photo source 8 on Room page - Not used */
 .elementor-35486 .elementor-element.elementor-element-816c11a .elementor-repeater-item-8d9e548 .swiper-slide-bg {
     background-color: var(--e-global-color-primary);
     background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/05/a-6.jpg);
@@ -403,6 +417,7 @@
     margin-bottom: 75px;
 }
 
+/* Photo source 9 on Room page - Not used */
 .elementor-35486 .elementor-element.elementor-element-ef05736 .elementor-repeater-item-8d9e548 .swiper-slide-bg {
     background-color: var(--e-global-color-primary);
     background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/05/a-59.jpg);

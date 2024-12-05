@@ -78,7 +78,7 @@
         top: 15px;
         left: 0;
         margin-left: 0px;
-        padding: 0 45px;
+        /* padding: 0 45px; */
     }
 
     #google_map_prop_list_wrapper{
@@ -101,7 +101,7 @@
 
 @media only screen and (max-width: 1280px){
     .header_wrapper.header_wide_yes{
-        padding: 0px 30px;
+        padding: 0 20px;
     }
 
     .is_dashboard_page #user_menu_u,
@@ -408,9 +408,9 @@
         float: left;
     }
 
-    .header_wrapper_inside{
+    /* .header_wrapper_inside{
         width: 100%;
-    }
+    } */
 
     #colophon {
         width: 100%;
@@ -684,7 +684,7 @@
     }
 
 
-     .social_share_wrapper{
+    .social_share_wrapper{
         display:none;
     }
 
@@ -695,17 +695,16 @@
     }
 
     #search_wrapper.type2 {
-
         width: 850px;
         margin-left: -425px;
         left: 50%;
     }
 
     .theme_slider_type2.theme_slider_search_type1 .listing-desc-slider span{
-            width: 50%;
+        width: 50%;
     }
     .theme_slider_wrapper_type2 .slider-content-wrapper{
-         top: 28%!important;
+        top: 28%!important;
         width: 850px;
         margin-left: -425px;
         left: 50%;
@@ -1581,6 +1580,7 @@
 
     .content_wrapper {
         width: 100%;
+        
     }
 
     #primary {
@@ -2170,9 +2170,6 @@
     }
     .agent_listings_title_similar{
          width: 100%!important;
-    }
-    .theme_slider_wrapper_type2 .theme-slider-price,
-    .theme-slider-price{
     }
 
     .blog_featured{

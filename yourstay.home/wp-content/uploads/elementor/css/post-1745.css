@@ -2,15 +2,16 @@
 	padding: 0px 0px 0px 0px;
 }
 
-.elementor-1745 .elementor-element.elementor-element-8f728fc>.elementor-element-populated {
-	padding: 100px 0px 0px 0px;
-}
+/* .elementor-1745 .elementor-element.elementor-element-8f728fc>.elementor-element-populated {
+	padding-top: 30px
+} */
 
 .elementor-1745 .elementor-element.elementor-element-0f27ebe {
 	font-family: "Line", Sans-serif;
 	font-size: 3.4rem;
 	font-weight: 400;
 	line-height: 3.4em;
+	margin: 0;
 }
 
 .elementor-1745 .elementor-element.elementor-element-0f27ebe>.elementor-widget-container {
@@ -18,7 +19,7 @@
 }
 
 .elementor-1745 .elementor-element.elementor-element-19224a9 {
-	padding: 150px 0px 0px 0px;
+	padding: 100px 0px 0px 0px;
 }
 
 .elementor-1745 .elementor-element.elementor-element-a49a9b8 {
@@ -33,13 +34,14 @@
 }
 
 .elementor-1745 .elementor-element.elementor-element-d90a5dd {
-	margin-top: 75px;
+	margin-top: 20px;
 	margin-bottom: 0px;
 }
 
+/* Photo transfer */
 .elementor-1745 .elementor-element.elementor-element-b27818f .elementor-repeater-item-728550f .swiper-slide-bg {
 	background-color: #833ca3;
-	background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/bedroom1.jpg);
+	background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/1.50.jpg);
 	background-size: cover;
 }
 
@@ -54,7 +56,7 @@
 
 .elementor-1745 .elementor-element.elementor-element-b27818f .elementor-repeater-item-9c9b4ab .swiper-slide-bg {
 	background-color: #833ca3;
-	background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/bedroom2.jpg);
+	background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/13-1.jpg);
 	background-size: cover;
 }
 
@@ -69,7 +71,7 @@
 
 .elementor-1745 .elementor-element.elementor-element-b27818f .elementor-repeater-item-ab88c6a .swiper-slide-bg {
 	background-color: #833ca3;
-	background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/livingroom1.jpg);
+	background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/2-1.jpg);
 	background-size: cover;
 }
 
@@ -84,7 +86,7 @@
 
 .elementor-1745 .elementor-element.elementor-element-b27818f .elementor-repeater-item-ea4815e .swiper-slide-bg {
 	background-color: #833ca3;
-	background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/livingroom2.jpg);
+	background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/1.61.jpg);
 	background-size: cover;
 }
 
@@ -99,7 +101,7 @@
 
 .elementor-1745 .elementor-element.elementor-element-b27818f .elementor-repeater-item-6333e64 .swiper-slide-bg {
 	background-color: #833ca3;
-	background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/view1.jpg);
+	background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/33.jpg);
 	background-size: cover;
 }
 
@@ -114,7 +116,7 @@
 
 .elementor-1745 .elementor-element.elementor-element-b27818f .elementor-repeater-item-7cb8cfe .swiper-slide-bg {
 	background-color: #833ca3;
-	background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/view2.jpg);
+	background-image: url(http://127.0.0.1:5500/yourstay.home/wp-content/uploads/2022/11/9-1.jpg);
 	background-size: cover;
 }
 
@@ -136,6 +138,7 @@
 }
 
 .elementor-1745 .elementor-element.elementor-element-b27818f .swiper-slide-inner {
+	align-items: flex-end;
 	text-align: center;
 }
 
